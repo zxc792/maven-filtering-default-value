@@ -1,4 +1,4 @@
-# maven-filtering-enhancer
+# maven-filtering-default-value
 a jar dependency for maven-resources-plugin
 
 # function
